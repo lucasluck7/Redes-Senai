@@ -6,7 +6,10 @@ if n1 >=18:
 else:
      n1 <18 
      print('Você não devria estar aqui!!')
+
+
      
+
 
 
 
